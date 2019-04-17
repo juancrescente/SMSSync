@@ -26,7 +26,7 @@
             android:layout_height="wrap_content"
             android:padding="@dimen/view_spacing_large"
             android:text="@string/add_keyword"
-            android:textColor="@color/white"
+            android:textColor="#ffffff"
             android:textStyle="bold"
             android:background="@color/color_accent"
             android:contentDescription="@string/app_name"/>

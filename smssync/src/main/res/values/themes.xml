@@ -18,13 +18,13 @@
 
 <resources>
     <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light">
-        <item name="colorControlHighlight">@color/grey_lighter</item>
+        <item name="colorControlHighlight">#D3D3D3</item>
         <item name="colorAccent">@color/color_accent</item>
         <item name="colorPrimary">@color/color_primary</item>
         <item name="colorPrimaryDark">@color/color_primary_dark</item>
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
-        <item name="lineColorDivider">@color/grey_lighter</item>
+        <item name="lineColorDivider">#D3D3D3</item>
         <item name="windowActionModeOverlay">true</item>
         <item name="actionModeBackground">@android:color/background_dark</item>
         <item name="android:actionModeStyle">@style/AppTheme.SmsSync.ActionMode</item>

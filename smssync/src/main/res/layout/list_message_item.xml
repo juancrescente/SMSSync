@@ -67,7 +67,7 @@
             android:layout_width="wrap_content"
             android:text="5:09pm"
             android:lines="1"
-            android:textColor="@color/grey_light"
+            android:textColor="#BEBEBE"
             android:paddingTop="@dimen/text_size_medium"
             android:textSize="@dimen/text_size_normal"
             android:layout_alignParentTop="true"
